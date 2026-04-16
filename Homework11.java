@@ -24,7 +24,7 @@ class Student{
     }
 }
 
-public class Homework1 {
+public class Homework11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("学生人数: ");
